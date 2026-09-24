@@ -1,4 +1,4 @@
-# Street Dog Vaccine Tracker (MERN, no database)
+# Street Dog Vaccine Tracker 
 
 A simple tool for animal-welfare volunteers to register street dogs, record vaccinations, and see which dogs are due or overdue.
 
